@@ -1,12 +1,11 @@
-
 <figure style="max-width:720px; margin:0 auto; text-align:center;">
-  <img src="../assets/Images/hashicorp-vault.png"
+  <img src="https://github.com/Ruhanyat-994/Hashicorp-Vault-and-AWS-KMS/blob/master/assets/Images/hashicorp-vault.png?raw=true"
        alt="Hashicorp Vault"
        style="width:100%; max-width:720px; display:block; margin:0 auto;
               border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.12);
               border:1px solid rgba(0,0,0,0.06); object-fit:cover;" />
   <figcaption style="font-size:0.9rem; color:var(--text-muted,#666); margin-top:8px;">
-    Hashicorp Vault
+    
   </figcaption>
 </figure>
 
@@ -67,13 +66,12 @@ In this project, we deploy a **production-ready High Availability Vault cluster*
 # Architecture Overview
 
 <figure style="max-width:720px; margin:0 auto; text-align:center;">
-  <img src="../assets/Images/architecture_hashicorp_vault.png"
+  <img src="https://github.com/Ruhanyat-994/Hashicorp-Vault-and-AWS-KMS/blob/master/assets/Images/architecture_hashicorp_vault.png?raw=true"
        alt="Hashicorp Vault"
        style="width:100%; max-width:720px; display:block; margin:0 auto;
               border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.12);
               border:1px solid rgba(0,0,0,0.06); object-fit:cover;" />
   <figcaption style="font-size:0.9rem; color:var(--text-muted,#666); margin-top:8px;">
-    Hashicorp Vault
   </figcaption>
 </figure>
 
@@ -167,13 +165,12 @@ vault-iam-role
 
 
 <figure style="max-width:720px; margin:0 auto; text-align:center;">
-  <img src="../assets/Images/ec2_hashi_vault.png"
+  <img src="https://github.com/Ruhanyat-994/Hashicorp-Vault-and-AWS-KMS/blob/master/assets/Images/ec2_hashi_vault.png?raw=true"
        alt="Hashicorp Vault"
        style="width:100%; max-width:720px; display:block; margin:0 auto;
               border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.12);
               border:1px solid rgba(0,0,0,0.06); object-fit:cover;" />
   <figcaption style="font-size:0.9rem; color:var(--text-muted,#666); margin-top:8px;">
-    Hashicorp Vault
   </figcaption>
 </figure>
 
@@ -291,13 +288,12 @@ Everything now:
 
 
 <figure style="max-width:720px; margin:0 auto; text-align:center;">
-  <img src="../assets/Images/tg_vault.png"
+  <img src="https://github.com/Ruhanyat-994/Hashicorp-Vault-and-AWS-KMS/blob/master/assets/Images/tg_vault.png?raw=true"
        alt="Hashicorp Vault"
        style="width:100%; max-width:720px; display:block; margin:0 auto;
               border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.12);
               border:1px solid rgba(0,0,0,0.06); object-fit:cover;" />
   <figcaption style="font-size:0.9rem; color:var(--text-muted,#666); margin-top:8px;">
-    Hashicorp Vault
   </figcaption>
 </figure>
 
@@ -611,13 +607,12 @@ journalctl -xeu vault -f
 ## Step 14: How To Confirm Everything Is Working
 
 <figure style="max-width:720px; margin:0 auto; text-align:center;">
-  <img src="../assets/Images/final_hashi_vault.png"
+  <img src="https://github.com/Ruhanyat-994/Hashicorp-Vault-and-AWS-KMS/blob/master/assets/Images/final_hashi_vault.png?raw=true"
        alt="Hashicorp Vault"
        style="width:100%; max-width:720px; display:block; margin:0 auto;
               border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.12);
               border:1px solid rgba(0,0,0,0.06); object-fit:cover;" />
   <figcaption style="font-size:0.9rem; color:var(--text-muted,#666); margin-top:8px;">
-    Hashicorp Vault
   </figcaption>
 </figure>
 
@@ -660,13 +655,12 @@ Another node should become leader.
 # Conclusion
 
 <figure style="max-width:720px; margin:0 auto; text-align:center;">
-  <img src="../assets/Images/cncfbd.png"
+  <img src="https://github.com/Ruhanyat-994/Hashicorp-Vault-and-AWS-KMS/blob/master/assets/Images/cncfbd.png?raw=true"
        alt="CNCF BD"
        style="width:100%; max-width:720px; display:block; margin:0 auto;
               border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.12);
               border:1px solid rgba(0,0,0,0.06); object-fit:cover;" />
   <figcaption style="font-size:0.9rem; color:var(--text-muted,#666); margin-top:8px;">
-    CNCF BD
   </figcaption>
 </figure>
 
